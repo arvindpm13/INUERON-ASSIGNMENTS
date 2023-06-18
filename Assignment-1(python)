@@ -75,16 +75,16 @@ Q18. What are boolean operator?
 
 Q19. What will the output of the following?
 ```
-1 or 0
+1 or 0  --> 1
  
-0 and 0
+0 and 0  --> 0
 
-True and False and True
+True and False and True --> false
 
-1 or 0 or 0
+1 or 0 or 0 --> 1
 ```
-# TRUE or FALSE
-# FALSE and FALSE
+# TRUE 
+# FALSE 
 # 1 and 0 and 1
 # FALSE or TRUE or TRUE
 
